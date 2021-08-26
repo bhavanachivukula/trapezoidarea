@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def add(a,b):
     return a+b
 
@@ -6,3 +7,5 @@ def divisionbytwo(n):
 
 addValue=add(2,2)
 print(divisionbytwo(addValue))
+
+
