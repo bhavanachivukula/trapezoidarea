@@ -1,3 +1,8 @@
 def add(a,b):
     return a+b
-print(add(2,2))
+
+def divisionbytwo(n):
+    return n//2
+
+addValue=add(2,2)
+print(divisionbytwo(addValue))
